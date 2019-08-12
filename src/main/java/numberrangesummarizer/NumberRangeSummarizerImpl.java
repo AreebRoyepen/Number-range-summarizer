@@ -10,6 +10,7 @@ public class NumberRangeSummarizerImpl implements NumberRangeSummarizer{
 	//function returns Integer Collection or null
 	public Collection<Integer> collect(String input) {
 
+		//data validation
 		if(input == null){
 			return null;
 		}else if(input.isEmpty()){
