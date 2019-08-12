@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NumberRangeSummarizerImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-08-12T14:04:53" hostname="BEAST-Areeb" time="0.06">
+  <properties/>
+  <testcase name="testCollectionNull()" classname="NumberRangeSummarizerImplTest" time="0.01"/>
+  <testcase name="testCollectionSpecialCharacters()" classname="NumberRangeSummarizerImplTest" time="0.001"/>
+  <testcase name="testCollectNotCommaDelimited()" classname="NumberRangeSummarizerImplTest" time="0.011"/>
+  <testcase name="testSummarizeCollectionSingleRange()" classname="NumberRangeSummarizerImplTest" time="0.027"/>
+  <testcase name="testSummarizeCollectionMultipleSingleRange()" classname="NumberRangeSummarizerImplTest" time="0.001"/>
+  <testcase name="testSummarizeCollectionNull()" classname="NumberRangeSummarizerImplTest" time="0.0"/>
+  <testcase name="testSummarizeCollectionEmpty()" classname="NumberRangeSummarizerImplTest" time="0.001"/>
+  <testcase name="testCollectEmptyString()" classname="NumberRangeSummarizerImplTest" time="0.001"/>
+  <testcase name="testCollectionNotNumbers()" classname="NumberRangeSummarizerImplTest" time="0.0"/>
+  <testcase name="testSummarizeCollectionSimple()" classname="NumberRangeSummarizerImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
